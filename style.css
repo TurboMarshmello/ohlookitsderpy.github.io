@@ -1,0 +1,12 @@
+html, body{
+  height: 100%;
+}
+body { 
+			background-image: url(https://images2.alphacoders.com/705/thumb-1920-705837.png) ;
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			background-color: #999;
+  
+}
